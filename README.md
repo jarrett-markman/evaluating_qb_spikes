@@ -1,3 +1,3 @@
 # Evaluating Quarterback Spikes
 
-- [Check out the writeup](https://rpubs.com/jlmanalytics/957000)
+- [Check out the writeup here!](https://rpubs.com/jlmanalytics/957000)
